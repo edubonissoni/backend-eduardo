@@ -7,5 +7,10 @@ Mude o terminal para Prompt de Comando e execute:
         npm i cors
         npm install dotenv
 
-Crie um novo arquivo chamado "server.js";
+Depois de instalar o GIT:
 
+git config --global user.name "Seu nome"
+git config --global user.email "Seu@email.com"
+git init
+git add .
+git commit -m "Mensagem de Commit aqui"
