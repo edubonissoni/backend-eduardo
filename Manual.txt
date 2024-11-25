@@ -1,0 +1,11 @@
+(Criar o servidor)
+Mude o terminal para Prompt de Comando e execute:
+        npm init es6 -y
+        npm install express
+        npm install multer
+        npm i @google/generative-ai
+        npm i cors
+        npm install dotenv
+
+Crie um novo arquivo chamado "server.js";
+
